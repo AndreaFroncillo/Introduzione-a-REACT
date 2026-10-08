@@ -1,0 +1,15 @@
+.title {
+  color: blue;
+  font-size: 32px;
+}
+
+.label {
+  color: black;
+  font-size: 18px;
+}
+
+.input {
+  width: 300px;
+  height: 40px;
+  font-size: 18px;
+}
